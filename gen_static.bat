@@ -1,0 +1,1 @@
+reveal-md tabular_data_nn.md --static docs
